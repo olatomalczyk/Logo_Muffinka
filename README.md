@@ -20,7 +20,7 @@ Gimp
 To do-list:
 * About me
 ## Status
-Project is:  _finish_
+Project is:  _finished_
 
 ## Contact
 Created by [@olatomalczyk](https://github.com/olatomalczyk)
