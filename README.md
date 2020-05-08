@@ -11,7 +11,7 @@
 Logotype made for a confectioner.
 
 ## Screenshots
-![Screenshot](.Zuffinka_with_bg.png)
+![Screenshot](/.Zuffinka_with_bg.png)
 
 
 ## Setup
